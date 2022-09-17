@@ -1,0 +1,56 @@
+{
+    "apps":[
+        {
+            "name":"edumerge",
+            "url":"https://app.edumerge.com/V2/newDashboard/dashboard/build/?pageId=50&pageGroupId=0#"
+        },
+        {
+            "name":"WhatsApp",
+            "url":"https://web.whatsapp.com/"
+        },
+        {
+            "name":"Chess",
+            "url":"https://www.chess.com/home"
+        },
+        {
+            "name":"Amazon",
+            "url":"https://www.amazon.in/"
+        },
+        {
+            "name":"Flipkart",
+            "url":"https://www.flipkart.com/"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.com/channels/@me/991701021241921653"
+        },
+        {
+            "name":"google docs",
+            "url":"https://docs.google.com/document/u/0/?tgif=d"
+        }
+    ],
+    "apps_tbo":[
+
+        {
+            "name":"Word",
+            "command":"winword"
+        },
+        {
+            "name":"PowerPoint",
+            "command":"powerpnt"
+        },
+        {
+            "name":"Excel",
+            "command":"excel"
+        },
+        {
+            "name":"notepad",
+            "command":"notepad"
+        },
+        {
+            "name":"snip",
+            "command":"snippingtool"
+        }
+        
+    ]
+}
